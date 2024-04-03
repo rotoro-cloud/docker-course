@@ -1,0 +1,20 @@
+.split {
+
+width: 62% !important;
+
+}
+
+.editor-split {
+
+width: 38% !important;
+
+}
+
+
+#embedded-terminal-iframe-v1-view iframe {
+    height: 100vh !important;
+}
+
+#embedded-terminal-iframe-v1-view #iframe_container iframe {
+    position: absolute!important;
+}
