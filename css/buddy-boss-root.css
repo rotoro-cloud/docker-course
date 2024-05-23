@@ -224,6 +224,11 @@
                 border: 0
             }
 
+code {
+    color: black;
+    font-weight: bold;
+}
+
             #learndash-page-content {
                 /# padding: 0px;
                 #/ }
