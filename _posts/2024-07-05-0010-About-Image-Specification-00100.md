@@ -8,13 +8,13 @@ layout: article
 ```
 ...
 |-- f9bc8676543761ff3033813257937aeb77e9bc84296eaf025e27fe01643927cf
-| |-- VERSION
-| |-- json
-| `-- layer.tar
+|   |-- VERSION
+|   |-- json
+|   `-- layer.tar
 |-- fefe8e8ca1eca9ce3eb25bc8049f6a644dddf9a7772ac92a80f2d59a59a90423
-| |-- VERSION
-| |-- json
-| `-- layer.tar -> ../ccdf4498fb4159e4837b44ce7dd79139c35f4e66331e4d879f1a77753f9b58d2/layer.tar
+|   |-- VERSION
+|   |-- json
+|   `-- layer.tar -> ../ccdf4498fb4159e4837b44ce7dd79139c35f4e66331e4d879f1a77753f9b58d2/layer.tar
 |-- manifest.json
 `-- repositories
 ```
@@ -29,10 +29,10 @@ layout: article
 
 ```
 ├── blobs
-│ └── sha256
-│     ├── ...
-│     ├── d635f9ec52adf2d7421e8d438696f89fd141dced85257f045cbdd31ac185aed1
-│     └── e093badc077bef281fc9671716c30b0dc5125816828eed4915438af0d3a52efb
+│   └── sha256
+│       ├── ...
+│       ├── d635f9ec52adf2d7421e8d438696f89fd141dced85257f045cbdd31ac185aed1
+│       └── e093badc077bef281fc9671716c30b0dc5125816828eed4915438af0d3a52efb
 ├── index.json
 ├── manifest.json
 ├── oci-layout
