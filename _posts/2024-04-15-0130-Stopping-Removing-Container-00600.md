@@ -11,7 +11,7 @@ docker container ls
 docker conatainer stop 78 68 26 3e c0
 ```
 
-Чтобы удалить их за один раз нужно написать что-то вроде `docker container stop a1 b2 c3 d4`. Вот эти идентификаторы мы можем получить при помощи ключа `-q` команды `container ls`. 
+Чтобы остановить их за один раз нужно написать что-то вроде `docker container stop a1 b2 c3 d4`. Вот эти идентификаторы мы можем получить при помощи ключа `-q` команды `container ls`. 
 
 ```
 docker container ls -q
